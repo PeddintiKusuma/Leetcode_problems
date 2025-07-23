@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
@@ -31,6 +33,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
