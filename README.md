@@ -31,6 +31,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -42,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
