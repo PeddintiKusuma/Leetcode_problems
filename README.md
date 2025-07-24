@@ -43,12 +43,14 @@
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1250-longest-common-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1250-longest-common-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
