@@ -11,11 +11,12 @@ class Solution {
         for(int i=0;i<=nums.length-2;i++){
             skipLastHouse[i]=nums[i];
             skipFirstHouse[i]=nums[i+1];
-            lootSkippingLast=robHelper(skipLastHouse,nums.length-1);
-            lootSkippingFirst= robHelper(skipFirstHouse, nums.length-1);
+             
 
       
         }
+        lootSkippingLast=robHelper(skipLastHouse,nums.length-1);
+        lootSkippingFirst= robHelper(skipFirstHouse, nums.length-1);
         return Math.max(lootSkippingLast,lootSkippingFirst);
       
     }
