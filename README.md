@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
@@ -77,11 +79,13 @@
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Breadth-First Search
@@ -91,11 +95,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
