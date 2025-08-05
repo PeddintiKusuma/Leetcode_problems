@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -37,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
@@ -50,6 +52,7 @@
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -90,6 +93,7 @@
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Breadth-First Search
 |  |
@@ -106,6 +110,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
