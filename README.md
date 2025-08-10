@@ -74,6 +74,7 @@
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
@@ -89,6 +90,7 @@
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
