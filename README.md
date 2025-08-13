@@ -94,6 +94,7 @@
 | [0202-happy-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0507-perfect-number) |
 ## Binary Search
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
