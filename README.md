@@ -94,6 +94,7 @@
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0326-power-of-three) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0342-power-of-four) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0342-power-of-four) |
 ## Simulation
