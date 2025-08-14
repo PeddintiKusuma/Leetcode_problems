@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
 ## Greedy
 |  |
@@ -135,6 +136,7 @@
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,4 +170,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
