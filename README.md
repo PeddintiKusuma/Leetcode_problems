@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-binary-search](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
 ## Greedy
@@ -116,6 +117,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-binary-search](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0792-binary-search) |
 ## Breadth-First Search
 |  |
 | ------- |
