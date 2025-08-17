@@ -26,6 +26,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
 ## Greedy
 |  |
@@ -46,6 +47,7 @@
 | [0414-third-maximum-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
 ## Two Pointers
 |  |
@@ -61,6 +63,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
