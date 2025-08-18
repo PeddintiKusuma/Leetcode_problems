@@ -89,12 +89,14 @@
 | [0415-add-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
