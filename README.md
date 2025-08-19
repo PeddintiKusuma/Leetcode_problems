@@ -28,6 +28,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0443-string-compression](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0792-binary-search) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
