@@ -70,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0213-house-robber-ii) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
