@@ -112,6 +112,7 @@
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0326-power-of-three) |
@@ -178,6 +179,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0415-add-strings) |
 ## Memoization
@@ -189,4 +191,8 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
