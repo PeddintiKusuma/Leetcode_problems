@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0136-single-number) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0213-house-robber-ii) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
