@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
