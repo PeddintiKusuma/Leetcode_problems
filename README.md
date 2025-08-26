@@ -107,6 +107,7 @@
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
