@@ -98,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0202-happy-number) |
@@ -156,6 +158,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
@@ -196,6 +199,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0415-add-strings) |
