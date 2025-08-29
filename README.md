@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0263-ugly-number) |
@@ -215,9 +217,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
