@@ -145,6 +145,7 @@
 | [1013-fibonacci-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1070-convert-to-base-2) |
 | [2383-add-two-integers](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2383-add-two-integers) |
+| [3830-find-closest-person](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
