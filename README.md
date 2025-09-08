@@ -106,6 +106,7 @@
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0443-string-compression) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -205,6 +207,7 @@
 | [0231-power-of-two](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
