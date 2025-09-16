@@ -85,6 +85,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -267,4 +268,5 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
