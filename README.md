@@ -262,6 +262,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
