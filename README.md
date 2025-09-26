@@ -38,6 +38,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
 | ------- |
