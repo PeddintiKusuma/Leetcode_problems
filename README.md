@@ -125,6 +125,7 @@
 | [0443-string-compression](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -283,4 +284,8 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
