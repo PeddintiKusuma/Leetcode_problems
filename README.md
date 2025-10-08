@@ -121,6 +121,7 @@
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
@@ -207,6 +208,7 @@
 | [0202-happy-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
