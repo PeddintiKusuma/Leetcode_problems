@@ -139,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
@@ -297,4 +298,16 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
