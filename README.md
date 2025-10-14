@@ -36,6 +36,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0816-design-hashset) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1095-two-city-scheduling) |
@@ -213,6 +214,7 @@
 | [0290-word-pattern](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0816-design-hashset) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0816-design-hashset](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0234-palindrome-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -312,4 +316,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
