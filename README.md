@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0134-gas-station) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0190-reverse-bits) |
@@ -334,5 +336,6 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
