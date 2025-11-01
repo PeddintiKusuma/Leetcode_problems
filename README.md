@@ -147,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
@@ -330,6 +331,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0816-design-hashset) |
 ## Backtracking
 |  |
