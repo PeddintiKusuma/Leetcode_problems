@@ -356,4 +356,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
