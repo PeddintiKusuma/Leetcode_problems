@@ -359,5 +359,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0175-combine-two-tables) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
