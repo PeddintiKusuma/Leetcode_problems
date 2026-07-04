@@ -126,6 +126,7 @@
 | [0020-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0091-decode-ways) |
@@ -162,6 +163,7 @@
 | [0002-add-two-numbers](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0069-sqrtx) |
@@ -264,6 +266,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PeddintiKusuma/Leetcode_problems/tree/master/0412-fizz-buzz) |
